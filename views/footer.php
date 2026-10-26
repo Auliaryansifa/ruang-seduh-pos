@@ -1,0 +1,1 @@
+</section><footer class="site-footer"><span>Ruang Seduh · POS</span><span><?= date('l, d F Y') ?> <i>•</i> <?= date('H:i') ?> WIB</span></footer></main></div><div class="scrim"></div><script src="assets/app.js" defer></script></body></html>

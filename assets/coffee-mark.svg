@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ikon cangkir kopi">
+  <rect width="64" height="64" rx="16" fill="#efad70"/>
+  <path d="M24 17c-1-4 2-6 1-9m8 9c-1-4 2-6 1-9m8 9c-1-4 2-6 1-9" fill="none" stroke="#34434a" stroke-linecap="round" stroke-width="2.8"/>
+  <path d="M15 25h29v17c0 7-5 12-12 12h-5c-7 0-12-5-12-12V25Z" fill="#34434a"/>
+  <path d="M44 29h4a7 7 0 0 1 0 14h-4" fill="none" stroke="#34434a" stroke-linecap="round" stroke-width="4"/>
+  <path d="M20 31h19" stroke="#f5d5b9" stroke-linecap="round" stroke-width="2" opacity=".8"/>
+</svg>

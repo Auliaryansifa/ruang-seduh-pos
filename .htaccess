@@ -1,0 +1,4 @@
+Options -Indexes
+<FilesMatch "^(database\.sql|README\.md|.*\.pdf)$">
+    Require all denied
+</FilesMatch>
